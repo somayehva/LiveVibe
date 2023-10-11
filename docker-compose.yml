@@ -1,0 +1,17 @@
+version: '3'
+services:
+  nodejs-app:
+    build: .
+    # image: my-livevivbe-docker # Replace with your Node.js app's image name
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo_container
+    container_name: nodejs_app
+  mongo_container:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data:/data/db # Mount a local directory to store MongoDB data
+    container_name: mongo_container
