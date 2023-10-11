@@ -21,7 +21,7 @@ You can access the live demo of LiveVibe [here](link-to-your-live-demo).
 - HTML
 - CSS (Bootstrap)
 - JavaScript (ES6)
-- Docker Support
+- Docker + Docker Compose
 
 You can also run LiveVibe in a Docker container. To do this, follow the instructions in the Dockerfile and docker-compose.yml files.
 
