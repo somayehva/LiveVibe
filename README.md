@@ -23,7 +23,5 @@ You can access the live demo of LiveVibe [here](link-to-your-live-demo).
 - JavaScript (ES6)
 - Docker + Docker Compose
 
-You can also run LiveVibe in a Docker container. To do this, follow the instructions in the Dockerfile and docker-compose.yml files.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
