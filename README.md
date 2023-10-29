@@ -1,6 +1,6 @@
 # LiveVibe
 
-LiveVibe is a full-stack web application that allows users to discover, view, and book concert events, providing a vibrant experience for music enthusiasts. Built with Node.js, Express, HTML, CSS, MongoDB, and Bootstrap.
+LiveVibe is a full-stack web app that allows users to discover, view, and register for concerts, providing a vibrant experience for music enthusiasts. Built with Node.js, Express, HTML, CSS, MongoDB, Bootstrap, Docker.
 
 ![LiveVibe Preview](https://github.com/somayehva/LiveVibe/blob/main/LiveVibe.png)
 
