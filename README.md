@@ -6,7 +6,7 @@ LiveVibe is a full-stack web app that allows users to discover, view, and regist
 
 ## Demo
 
-You can access the live demo of LiveVibe [here](link-to-your-live-demo).
+You can access the live demo of LiveVibe [here](http://livevibe.somayeh.me/).
 
 ## Features
 
